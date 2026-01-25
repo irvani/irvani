@@ -1,31 +1,39 @@
-# 👋 Hi there, I'm Hadi
+# 👋 Hi — I’m Hadi Irvani
 
-**Entrepreneur & Growth Architect | $0 ⮕ $8M+ Revenue Specialist | 15+ Years of E-Commerce**
+**Entrepreneur & Growth Architect** building execution-heavy businesses at the intersection of **Real Estate, Hospitality, and Automation.**
 
-I specialize in the "Zero to One" phase—taking raw ideas and scaling them into eight-figure engines. From meeting **Jeff Barr** at re:Invent to architecting high-concurrency systems for 60+ person teams, I build for scale, speed, and **Antigravity**.
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hadi1/) 
+![EO Member](https://img.shields.io/badge/EO-Member%20%26%20Mentor-004C97?style=for-the-badge&logo=handshake&logoColor=white)
+![AWS Featured](https://img.shields.io/badge/AWS-Featured_Developer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-### 🏆 Impact & Achievements
-* **🚀 $8M+ Growth Engine:** Successfully guided multiple e-commerce startups from the ground floor to over **$8,000,000** in annual revenue.
-* **🍑 PeachDish.com:** Architected and scaled the platform on the **Play Framework**, leading a team of **60+ members** through high-traffic growth and logistical complexity.
-* **☁️ AWS Featured Developer:** Work featured on the **Official AWS Blog**; a regular at **AWS re:Invent** with deep cloud expertise and personal recognition from Jeff Barr.
-* **🤝 EO Member & Mentor:** Active member of the **Entrepreneurs' Organization (EO)**, mentoring founders on scaling operations and technical leadership.
-* **💬 Industry Veteran:** 15 years of deep-bench experience navigating the evolution of digital trade and high-scale architecture.
+### 🚀 The Track Record
+* **$8M+ Revenue Scaler:** Guided multiple startups from **$0 ⮕ $8M+** in annual revenue.
+* **PeachDish.com:** Architected/scaled on **Play Framework**; led a team of **60+**.
+* **Cloud Excellence:** Featured on the **Official AWS Blog**; regular at **AWS re:Invent** (Met **Jeff Barr**).
+* **E-Commerce Veteran:** 15 years of high-concurrency architecture and **Antigravity** execution.
 
 ### 💼 Current Ventures
-* **[Lume Hotels](https://lumehotels.com)** – Modernizing hospitality through technology.
-* **[Infill Capital Partners](https://infillcapitalpartner.com)** – Growth strategy and capital navigation.
-* **[oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)** – Streamlining open-source developer workflows.
+* **[Lume Hotels](https://lumehotels.com)** — Premium capsule hospitality platform (Design, Ops, Tech).
+* **[Infill Capital Partners](https://infillcapitalpartners.com)** — Transforming underutilized RE into high-yield assets.
+* **[oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)** — Streamlining open-source automation.
 
 ---
 
-### 🛠️ Leadership & Tech Stack
-![EO Member](https://img.shields.io/badge/EO-Member%20%26%20Mentor-004C97?style=for-the-badge&logo=handshake&logoColor=white) ![Play Framework](https://img.shields.io/badge/Play_Framework-%23003366.svg?style=for-the-badge&logo=play&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### ⚙️ My Execution Stack
+* **Core Tech:** ![Play Framework](https://img.shields.io/badge/Play-003366?style=flat-square&logo=play&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+* **Automation:** Internal tools, AI workflows, and repeatable rollout playbooks.
+* **Operations:** Operator-grade systems (SOPs, Staffing, Procurement, Yield Management).
+* **Philosophy:** Clear strategy ⮕ **Fast execution.** Simple systems that scale.
 
 ---
 
-### 🔭 Connect With Me
-* 🔭 **Currently:** Pushing the boundaries of **Antigravity** in tech and business ventures.
-* 💬 **Ask me about:** Scaling E-commerce, the Play Framework, or **EO Mentorship**.
-* 📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/hadi1/)
+### 🔭 Open To
+* **Partnerships:** Landlords, operators, and capital partners for hospitality conversions.
+* **Builders:** Full-stack, automation, and design systems experts (Contract ⮕ Long-term).
+* **Mentorship:** Advising founders via **EO** on scaling operations and technical leadership.
+
+---
+
+**[LinkedIn](https://www.linkedin.com/in/hadi1/)** | **[Lume Hotels](https://lumehotels.com)** | **[Infill Capital Partners](https://infillcapitalpartners.com)**
