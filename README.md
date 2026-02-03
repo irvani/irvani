@@ -34,6 +34,10 @@
 * **Builders:** Full-stack, automation, and design systems experts (Contract ⮕ Long-term).
 * **Mentorship:** Advising founders via **EO** on scaling operations and technical leadership.
 
+
 ---
 
-**[LinkedIn](https://www.linkedin.com/in/hadi1/)** | **[Lume Hotels](https://lumehotels.com)** | **[Infill Capital Partners](https://infillcapitalpartners.com)**
+[![Website](https://img.shields.io/badge/infillcapitalpartners.com-000?style=flat&logo=googlechrome&logoColor=white)](https://infillcapitalpartners.com)
+[![Website](https://img.shields.io/badge/lumehotels.com-000?style=flat&logo=googlechrome&logoColor=white)](https://lumehotels.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadi1/)
+
