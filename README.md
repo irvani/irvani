@@ -31,11 +31,11 @@ My newest venture is **[Staffbox](https://staffbox.ai)**: an on-site agentic AI 
   <tr>
     <td width="50%" valign="top">
       <h4>🤖 <a href="https://staffbox.ai">Staffbox</a> <sup>new</sup></h4>
-      <p>Your first agentic worker, one box on your network. <a href="https://github.com/NousResearch/hermes-agent"><strong>Hermes Agent</strong></a> (Nous Research) + <strong>Ollama</strong> + an Obsidian-compatible vault on a Mac mini: inference and memory stay on site, cloud burst is off unless the customer turns it on with their own key. The open stack (install, benchmark and unit-economics scripts) is MIT at <a href="https://github.com/irvani/staffbox">irvani/staffbox</a>. Status: working draft; one unit runs inside Staffbox, none at a customer site yet.</p>
+      <p>Your first agentic worker, one box on your network. <a href="https://github.com/NousResearch/hermes-agent"><strong>Hermes Agent</strong></a> (Nous Research) + <strong>Ollama</strong> + an Obsidian-compatible vault on a Mac mini: inference and memory stay on site, cloud burst is off unless the customer turns it on with their own key. The open stack (install, benchmark and unit-economics scripts) is MIT at <a href="https://github.com/Staffbox-ai/staffbox">Staffbox-ai/staffbox</a>. Status: working draft; one unit runs inside Staffbox, none at a customer site yet.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🧪 Open Source & Measurements</h4>
-      <p>I publish what I measure. <a href="https://github.com/irvani/staffbox">irvani/staffbox</a> includes a concurrency benchmark for local Ollama models; on a 16 GB M4 Mac mini an 8B model via Ollama at default settings ran at about 20 tokens/s per request, with requests queuing at 2 and 4 concurrent users. That is the floor; 32 GB builds are next (<a href="https://github.com/irvani/staffbox/blob/main/docs/measurements.md">measurements</a>, Sep 2026).</p>
+      <p>I publish what I measure. <a href="https://github.com/Staffbox-ai/staffbox">Staffbox-ai/staffbox</a> includes a concurrency benchmark for local Ollama models; on a 16 GB M4 Mac mini an 8B model via Ollama at default settings ran at about 20 tokens/s per request, with requests queuing at 2 and 4 concurrent users. That is the floor; 32 GB builds are next (<a href="https://github.com/Staffbox-ai/staffbox/blob/main/docs/measurements.md">measurements</a>, Sep 2026).</p>
     </td>
   </tr>
   <tr>
